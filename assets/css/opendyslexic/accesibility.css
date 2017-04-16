@@ -51,13 +51,14 @@ input,
 ul,
 span,
 font,
-strong
+strong,
+div
 {
-    font-family: opendyslexic;
+    font-family: opendyslexic !important;
     line-height: 150%;
 }
 * {
-    font-family: opendyslexic;
+    font-family: opendyslexic !important;
 }
 pre,
 code {
@@ -88,7 +89,7 @@ textarea {
 .type-size-small .story.theme-main .story-body-text,
 .story.theme-summary .story-heading 
 {
-    font-family: opendyslexic;
+    font-family: opendyslexic !important;
     line-height: 150%;
 }
 
@@ -96,12 +97,12 @@ textarea {
 article .article_header h1,
 article p
 {
-    font-family: opendyslexic;
+    font-family: opendyslexic !important;
     line-height: 150%;
 }
 
 /* Netflix Captions Support */
 div.player-timedtext-text-container
 {
-    font-family: opendyslexic;
+    font-family: opendyslexic !important;
 }
