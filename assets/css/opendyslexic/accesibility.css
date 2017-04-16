@@ -100,3 +100,8 @@ article p
     line-height: 150%;
 }
 
+/* Netflix Captions Support */
+div.player-timedtext-text-container
+{
+    font-family: opendyslexic;
+}
