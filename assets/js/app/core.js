@@ -22,7 +22,7 @@ app.controller("core", function($scope) {
 
 
     /**
-     * Adds Saves the Optoins
+     * Adds Saves the Options
      */
     $scope.openDyslexic = function() { // Saves options to chrome.storage
 
